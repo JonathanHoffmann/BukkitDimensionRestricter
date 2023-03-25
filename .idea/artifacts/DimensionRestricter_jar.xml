@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DimensionRestricter:jar">
+    <output-path>$PROJECT_DIR$/../DimensionRestricter_jar</output-path>
+    <root id="archive" name="DimensionRestricter.jar">
+      <element id="module-output" name="DimensionRestricter" />
+    </root>
+  </artifact>
+</component>
