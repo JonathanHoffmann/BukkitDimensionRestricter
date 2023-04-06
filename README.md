@@ -1,9 +1,7 @@
 # BukkitDimensionRestricter
-https://www.curseforge.com/minecraft/bukkit-plugins/dimensionrestricter
-
-Permissions:
-dimensionrestricter.enterend
+Permissions:<br />
+dimensionrestricter.enterend<br />
 dimensionrestricter.enternether
 
-Built on top of https://github.com/JonathanHoffmann/BukkitEndRestricter
+Built on top of https://github.com/JonathanHoffmann/BukkitEndRestricter<br />
 with the same flaws. Don't use this plugin as is.
